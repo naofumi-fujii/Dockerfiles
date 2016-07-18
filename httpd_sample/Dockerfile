@@ -1,5 +1,5 @@
 # setting base image
-FROM centos:centos7
+FROM centos:centos6
 
 # Author
 MAINTAINER pppurple
