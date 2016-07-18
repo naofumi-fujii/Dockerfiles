@@ -2,7 +2,7 @@
 FROM centos:centos6
 
 # Author
-MAINTAINER pppurple
+MAINTAINER dummy
 
 # install Apache http server
 RUN ["yum",  "-y", "install", "httpd"]
